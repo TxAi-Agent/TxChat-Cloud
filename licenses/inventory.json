@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-09-29",
+  "lockfileSha256": "b4e48c09dce881514a5dfb271a82ca14a8846a47b4146ae195d84c580de381ca",
+  "officialLicenses": [
+    {
+      "path": "LICENSE",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "licenses/tabler-core-LICENSE",
+      "url": "https://raw.githubusercontent.com/tabler/tabler/%40tabler%2Fcore%401.4.0/LICENSE",
+      "sha256": "ef5d45031adce79eeaf17f04a966871137589f9b60d18e4520ade84b291dcd05"
+    },
+    {
+      "path": "licenses/tabler-icons-LICENSE",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/v3.46.0/LICENSE",
+      "sha256": "b740a1d46122672da62833e97f7e7c8a13fa85cbc7445b584b297cc00dde93db"
+    },
+    {
+      "path": "licenses/bootstrap-LICENSE",
+      "url": "https://raw.githubusercontent.com/twbs/bootstrap/v5.3.7/LICENSE",
+      "sha256": "4620c84ad5ce8602ff65640ed6b7c8b78ebb9e036584f0ebc1ccc88206a4bb51"
+    }
+  ],
+  "directDependencies": [
+    {
+      "name": "@alicloud/credentials",
+      "version": "2.4.7",
+      "scope": "dependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "@alicloud/dysmsapi20170525",
+      "version": "4.6.0",
+      "scope": "dependencies",
+      "declaredLicense": "Apache-2.0",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "@alicloud/openapi-client",
+      "version": "0.4.15",
+      "scope": "dependencies",
+      "declaredLicense": "ISC",
+      "license": "ISC"
+    },
+    {
+      "name": "@alicloud/tea-util",
+      "version": "1.4.11",
+      "scope": "dependencies",
+      "declaredLicense": "Apache-2.0",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "@fastify/jwt",
+      "version": "10.2.1",
+      "scope": "dependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "@fastify/multipart",
+      "version": "10.1.0",
+      "scope": "dependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "@fastify/rate-limit",
+      "version": "11.1.0",
+      "scope": "dependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "@fastify/websocket",
+      "version": "11.3.0",
+      "scope": "dependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "@tabler/core",
+      "version": "1.4.0",
+      "scope": "devDependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "@tabler/icons-webfont",
+      "version": "3.46.0",
+      "scope": "devDependencies",
+      "declaredLicense": null,
+      "license": "MIT",
+      "installedLicenseFile": "LICENSE",
+      "licenseSha256": "b740a1d46122672da62833e97f7e7c8a13fa85cbc7445b584b297cc00dde93db"
+    },
+    {
+      "name": "@types/better-sqlite3",
+      "version": "7.6.13",
+      "scope": "devDependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "@types/node",
+      "version": "24.13.3",
+      "scope": "devDependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "@types/ws",
+      "version": "8.18.1",
+      "scope": "devDependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "better-sqlite3",
+      "version": "13.0.1",
+      "scope": "dependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "fastify",
+      "version": "5.12.5",
+      "scope": "dependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "tsx",
+      "version": "4.23.1",
+      "scope": "devDependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "typescript",
+      "version": "7.0.2",
+      "scope": "devDependencies",
+      "declaredLicense": "Apache-2.0",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "vitest",
+      "version": "4.1.11",
+      "scope": "devDependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "ws",
+      "version": "8.21.1",
+      "scope": "dependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    },
+    {
+      "name": "zod",
+      "version": "4.4.3",
+      "scope": "dependencies",
+      "declaredLicense": "MIT",
+      "license": "MIT"
+    }
+  ]
+}

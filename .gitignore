@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+.data/
+.env
+.env.*
+*.db
+*.sqlite*
+*.log
+*.pem
+*.key
+*.p12
+.DS_Store
+.local-data/
+administrator-setup*
+application-keys.json
